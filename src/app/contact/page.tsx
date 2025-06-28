@@ -16,7 +16,7 @@ export default function ContactPage() {
         <div className="space-y-6">
           <div className="flex items-center gap-4 p-4 bg-gray-100 rounded-lg hover:bg-gray-200 transition">
             <PhoneIcon size={24} className="text-green-600" />
-            <span className="text-lg text-gray-700">+91 98765 43210</span>
+            <span className="text-lg text-gray-700">+91 9049329885</span>
           </div>
 
           <div className="flex items-center gap-4 p-4 bg-gray-100 rounded-lg hover:bg-gray-200 transition">
@@ -26,7 +26,7 @@ export default function ContactPage() {
 
           <div className="flex items-center gap-4 p-4 bg-gray-100 rounded-lg hover:bg-gray-200 transition">
             <MapPinIcon size={24} className="text-purple-600" />
-            <span className="text-lg text-gray-700">Delhi, India</span>
+            <span className="text-lg text-gray-700">Pune, India</span>
           </div>
         </div>
       </div>
